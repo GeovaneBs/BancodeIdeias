@@ -1,0 +1,33 @@
+header {
+	min-height: 70px;
+	width: 100%;
+	background-color: rgba(25, 255, 255, 1);
+	position: fixed;
+
+
+	
+}
+header .link-responsive a {
+	padding: 25px 20px 15px;
+}
+
+header .link-responsive a:hover {
+	border-bottom: 3px solid #fff;
+	text-decoration: none;
+	transition: 0.7ms;
+}
+
+/*
+	CSS do Rodapé
+
+*/
+footer {
+	padding: 40px 0;
+	background-color: rgba(25, 255, 255, 1);
+}
+
+footer i {
+	color: #F8F8FF;
+	margin-bottom: 20px;
+	font-size: 30px;
+}

@@ -1,0 +1,15 @@
+.home#content-home .banner{
+	height: 100vh;
+	background-image: url("../../img/creative.jpg");
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.home#content-home .banner .title {
+	text-shadow: 1px 0 rgba(0, 0, 0, 0.9);
+}
+
+.home#content-home .banner h1.title{
+	padding-top: 200px;
+}
