@@ -13,6 +13,14 @@
 .home#content-home .banner h1.title{
 	padding-top: 200px;
 }
+
+.home#content-home .banner .title {
+	text-shadow: 1px 0 rgba(0, 0, 0, 0.9);
+}
+
+.home#content-home .banner h1.title{
+	padding-top: 200px;
+}
 img{
 	width: 100px;
 	height: 60px;

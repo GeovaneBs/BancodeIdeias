@@ -17,9 +17,11 @@
 $paths = array(
   'controllers',
   'controllers/site',
+  'controllers/addIdea',
   'helpers',
   'models',
   'models/db',
+  'model/idea'
 );
 
 /**

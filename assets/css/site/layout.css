@@ -31,6 +31,20 @@ footer i {
 	margin-bottom: 20px;
 	font-size: 30px;
 }
+@media(max-width: 767px) {
+	header .link-responsive a{
+		display: none;
+		width: 100%;
+		text-align: right;
+	}
+	header .hamburguer{
+		display: block!important;
+	}
+	header .hamburguer i{
+		font-size: 40px;
+		padding-top: 15px;
+	}
+}
 /*
 	Section Galery
 */
@@ -64,7 +78,7 @@ h2#title-galery{
 }
 
 section#ideias {
-    display: inline-grid;
+    display: grid;
     grid-template-columns: auto auto;
     gap: 20px;
 }

@@ -6,6 +6,10 @@
 			<img class="logo" src="./assets/img/logo.png" alt="">
 			<a href="#" class="text-dark float-right d-block compartilhe" ><h4>Share ideas !!!</h4></a>
 		</div>
+		
+		<div class="hamburguer d-nome">
+			<i class="fas fa-bars text-light float-right"></i>
+		</div>
 
 		<!-- Links -->
 		<div class="links link-responsive">
