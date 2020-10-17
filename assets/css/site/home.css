@@ -13,3 +13,19 @@
 .home#content-home .banner h1.title{
 	padding-top: 200px;
 }
+img{
+	width: 100px;
+	height: 60px;
+}
+a .compartilhe{
+	padding-top: 50px;
+	font-size: x-large;
+}
+a:hover{
+	text-decoration: none;
+}
+section img .right{
+	float: right;
+	width: 200px;
+	height: 400px;
+}

@@ -1,28 +1,28 @@
 <div class="container">
 	<div class="row">
+
 		<!-- LINKS-->
 		<div class="col-md-4 col-sm-12 col-12">
 			<div class="text-center text-dark">
-				<h3 class="my-3">Paginas</h3>
+				<h3 class="my-3">Pages</h3>
 				<a href="#banner" class="text-dark">Home</a><br>
-				<a href="#banner" class="text-dark">Galeria</a><br>
-				<a href="#banner" class="text-dark">Adicionar Ideia</a><br>
+				<a href="#banner" class="text-dark">Categories</a><br>
+				<a href="#banner" class="text-dark">Add Idea</a><br>
 			</div>
 		</div>
-
 
 		<!-- POLITICAS E TERMOS -->
 		<div class="col-md-4 col-sm-12 col-12">
 			<div class="text-center text-dark">
-				<h3 class="my-3">Sobre</h3>
-				<a href="#banner" class="text-dark">Politica de Privacidade</a><br>
-				<a href="#banner" class="text-dark">Termos de Uso</a>
+				<h3 class="my-3">About</h3>
+				<a href="#banner" class="text-dark">Privacy policy</a><br>
+				<a href="#banner" class="text-dark">Terms of use</a>
 			</div>
 		</div>
 
 		<!-- REDES SOCIAIS -->
 		<div class="col-md-4 col-sm-12 col-12">
-			<h3 class="text-center text-dark my-3">Redes Socias</h3>
+			<h3 class="text-center text-dark my-3">Social Networks</h3>
 			<div class="row">
 
 				<!-- INSTAGRAM -->
@@ -52,6 +52,5 @@
 				</div>
 			</div>
 		</div>
-	</div>
-	
+	</div>	
 </div>

@@ -7,8 +7,9 @@
 * @author Code Universe
 *
 **/
+define('LOCAL_URL', '/BancodeIdeias');
 
-define('LOCAL_URL', '/Geovane/projeto_sabado_8');
+// define('LOCAL_URL', '/Geovane/projeto_sabado_8');
 
 // if($env == "dev"){
 // 	define('LOCAL_URL', '/pasta_do_projeto');
